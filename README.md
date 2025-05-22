@@ -13,11 +13,18 @@ This project aims to clean the [Netflix Titles Dataset](https://www.kaggle.com/d
 * Efficiently updating and saving the cleaned dataset.
 
 BEFORE CLEANING!!!!
-![Screenshot 2025-05-21 at 21 15 43](https://github.com/user-attachments/assets/c46e4e88-6e3d-4fa4-9728-0e302d36d892)
+
+
+
+[Screenshot 2025-05-21 at 21 15 43](https://github.com/user-attachments/assets/c46e4e88-6e3d-4fa4-9728-0e302d36d892)
 
 
 AFTER CLEANING !!!!
-![Screenshot 2025-05-21 at 21 15 13](https://github.com/user-attachments/assets/acebbb3a-07ac-4315-9cb5-51afa8dfcb82)
+
+
+
+
+[Screenshot 2025-05-21 at 21 15 13](https://github.com/user-attachments/assets/acebbb3a-07ac-4315-9cb5-51afa8dfcb82)
 
 ---
 
