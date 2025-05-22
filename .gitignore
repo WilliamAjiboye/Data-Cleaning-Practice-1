@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 .DS_Store
 *.csv
+netflix_titles.csv
+netflix_titles_updated.csv
