@@ -2,8 +2,8 @@ from tmdb_api import enrich_dataframe
 import pandas as pd
 
 # Load dataset
-input_file = 'netflix_titles.csv'
-output_file = 'netflix_titles_updated.csv'
+input_file = '../csv_data/netflix_titles.csv'
+output_file = '../csv_data/netflix_titles_updated.csv'
 
 dataframe = pd.read_csv(input_file)
 updated_df = enrich_dataframe(dataframe)
